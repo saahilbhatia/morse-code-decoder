@@ -1,2 +1,4 @@
-# morse-code-decoder
-The program is used to decode Morse code sequences that represent words and sentences in English.
+# Morse code decoder
+The program is used to decode Morse code sequences that represent words and sentences in English. The dots, dashes and spaces in the Morse Code system are represented by 0, 1 and '*' respectively. Each character represented by the Morse Code system is separated by a single space, and each word is separated by three spaces. The program decodes the Morse Code sequences entered by the user and displays the decoded message. If there was no error in the input, the program displays the decoded message and then presents a menu asking the user for the level of analysis for the decoded message. The different levels for analyses are characters, words, and sentences. Based on the level selected by the user, the program displays the occurrences of each character / word / type of sentence.
+
+*Please read the documentation file for more details.*
